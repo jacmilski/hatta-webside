@@ -2,8 +2,8 @@ import React from 'react';
 
 const GalleryPage = () => (
   <>
-    <h1>Blog page</h1>
-    <p>Welcome to my blog</p>
+    <h1>My Gallery</h1>
+    <p>Welcome to my gallery</p>
   </>
 );
 

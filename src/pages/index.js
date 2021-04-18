@@ -1,7 +1,6 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import styled from 'styled-components';
-//import Image from 'gatsby-image';
 import { GatsbyImage } from 'gatsby-plugin-image';
 import Button from '../components/Button/Button';
 
